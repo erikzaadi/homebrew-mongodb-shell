@@ -5,6 +5,6 @@
 ## Installation:
 
 ```sh
-brew tab erikzaadi/mongodb-shell
+brew tap erikzaadi/mongodb-shell
 brew install mongodb-shell
 ```
